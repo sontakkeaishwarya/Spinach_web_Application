@@ -1,0 +1,86 @@
+/* Frame container */
+.frame-container {
+  position: absolute;
+  width: 1920px;
+  height: 444px;
+  left: 0;
+  top: 5956px;
+  max-width: 1920px;
+  background-color: #02027f;
+}
+
+/* Outer div with provided CSS */
+/* .frame-outer {
+  width: 100%;
+  height: 100%;
+} */
+
+/* Content inside the frame */
+/* .frame-content {
+  position: absolute;
+  width: 1066px;
+  height: 144px;
+  left: calc(50% - 1066px/2 - 130px);
+  top: 72px;
+} */
+
+/* Text "Feeling the lag of inconsistent design?" */
+.frame-heading {
+  position: absolute;
+  width: 450px;
+  height: 144px;
+  left: calc(50% - 1066px/2 - 130px);
+  top: 72px;
+  font-family: 'Haffer SQ XH';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -0.05em;
+  color: #FFFFFF;
+  word-wrap: break-word;
+  
+}
+
+/* Text "Partner with us" */
+.frame-text {
+position: absolute;
+width: 169px;
+height: 36px;
+left: calc(50% - 169px/2 - 578.5px);
+top: 232px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #E0E0E0;
+}
+
+/* Button "Connect now" */
+.frame-button {
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 32px;
+gap: 8px;
+position: absolute;
+width: 168px;
+height: 56px;
+left: 297px;
+top: 316px;
+border: 1px solid #FFFFFF;
+border-radius: 100px;
+background: transparent;
+color:white;
+}
+
+/* Button */
+
+
+.frame-button:hover {
+  background-color: #FFFFFF;
+  color: #000000;
+}

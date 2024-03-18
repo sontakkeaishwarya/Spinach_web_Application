@@ -1,0 +1,9 @@
+.super {
+    position: relative;
+    width: 100%; /* Assuming full width */
+    height: 100%; /* Assuming full height */
+    max-width: 120rem; /* Assuming a maximum width of 120rem */
+    max-height: 539.875rem; /* Assuming a maximum height of 539.875rem */
+    background: #040404;
+    overflow-x: hidden;
+  }

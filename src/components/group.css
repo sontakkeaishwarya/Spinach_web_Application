@@ -1,0 +1,188 @@
+/* Group 961 */
+.group-container {
+    position: absolute;
+    width: 1326px;
+    height: 212px;
+    left: calc(50% - 1326px/2);
+    top: 4444px;
+    background-color: white;
+
+  }
+  /* Design Systems are ideal for : */
+  .design-system-heading {
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 24px;
+/* width: 769px; */
+height: 60px;
+left: 576px !important;
+top: 4944px;
+
+
+  }
+  /* Line 269 */
+  .line-before-heading {
+    width: 64px;
+    height: 0px;
+    border: 1px solid #040404;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  /* Line 270 */
+.line-after-heading {
+    width: 64px;
+    height: 0px;
+    border: 1px solid #040404;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+  }
+.line-between{
+width: 1326px;
+height: 0px;
+left: 297px;
+top: 5068px;
+border: 2px solid #040404;
+  }
+  /* Subheadings */
+  .subheading {
+    font-family: 'Haffer SQ XH';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #333333;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
+/* .subhead1{
+width: 1326px;
+height: 164px;
+left: 297px;
+top: 5068px;
+background: #FFFFFF;
+  }
+.subhead2{
+width: 1210px;
+height: 72px;
+left: 356px;
+top: 5120px;
+} */
+.subheading1{
+margin-top:62px ;
+margin-left: 53px;
+width: 346px;
+height: 72px;
+left: 356px;
+top: 5120px;
+}
+.subheading2{
+margin-top: -70px;
+margin-left: 540px;
+width: 350px;
+height: 36px;
+left: 784px;
+top: 5120px;
+}
+.subheading3{
+margin-top: -38px;
+margin-left: 855px;
+width: 350px;
+height: 72px;
+left: 1216px;
+top: 5120px;
+}
+.Subhead-a{
+width: 23px;
+height: 28px;
+left: 356px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+color: #333333;
+}
+.subhead-a1{
+width: 300px;
+height: 72px;
+left: 402px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #333333;
+}
+.subhead-b{
+width: 26px;
+height: 28px;
+left: 784px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+color: #333333;
+}
+.subehead-b1{
+width: 300px;
+height: 36px;
+left: 834px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #333333;
+}
+.subhead-c{
+width: 26px;
+height: 28px;
+left: 1216px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 28px;
+text-align: center;
+color: #333333;
+}
+.subhead-c1{
+width: 300px;
+height: 72px;
+left: 1266px;
+top: 5120px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
+color: #333333;
+}
+.big{
+width: 497px;
+height: 60px;
+font-family: 'Haffer SQ XH';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+letter-spacing: -0.05em;
+color: #040404;
+flex: none;
+order: 1;
+flex-grow: 0;
+}

@@ -1,0 +1,48 @@
+.slick-slide {
+    margin-right: 50px; 
+  }
+.large-slide {
+    transform: scale(1.2); 
+  }
+.img1{
+    width: 516px;
+    height: 654px;
+    left: 162px;
+    top: 2206px;
+}
+.img2{
+    width: 516px !important;
+    height:516px !important;
+    left: 702px;
+    top: 2206px;
+}
+.img3{
+    width: 516px;
+    height:516px;
+    left: 1242px;
+    top: 2206px;
+}
+.img4{
+    width: 516px;
+    height: 516px;
+    left: 1782px;
+    top: 2206px;
+    }
+.img5{
+    width: 516px;
+    height:516px;
+    left: 2322px;
+    top: 2206px;
+    }
+.img6{
+    width: 516px;
+    height:516px;
+    left: 2862px;
+    top: 2206px;
+
+}
+.slick-prev,
+.slick-next {
+  background-color: black;
+}
+
